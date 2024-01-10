@@ -8,8 +8,8 @@ All major profile links in a single website.
 Made with basic HTML and CSS.
 
 
-## Sneak Peek of Web Page 🙈 :
-![linklist](![Screenshot (1068)](https://github.com/GehlotGaurav/Link_List/assets/75985096/54d37b90-2ec7-4630-b17a-9bb6be8fbba6))
+## Look of Web Page  :
+(![Screenshot (1068)](https://github.com/GehlotGaurav/Link_List/assets/75985096/54d37b90-2ec7-4630-b17a-9bb6be8fbba6))
 
 
 
@@ -18,6 +18,8 @@ Made with basic HTML and CSS.
 If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gauravgehlot/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gauravgehlot/"><img src="![link](https://github.com/GehlotGaurav/Link_List/assets/75985096/956e3e81-f881-4dd4-8075-4a0b5ad5b165)" width="30"></img></a>
+
 
 © 2024 Gaurav Gehlot
 
