@@ -9,7 +9,7 @@ Made with basic HTML and CSS.
 
 
 ## Sneak Peek of Web Page 🙈 :
-![linklist](https://ibb.co/3RhJX9F)
+![linklist](![Screenshot (1068)](https://github.com/GehlotGaurav/Link_List/assets/75985096/54d37b90-2ec7-4630-b17a-9bb6be8fbba6))
 
 
 
