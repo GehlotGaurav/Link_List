@@ -18,10 +18,9 @@ Made with basic HTML and CSS.
 If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/gauravgehlot/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gauravgehlot/"><img src="![link (1)](https://github.com/GehlotGaurav/Link_List/assets/75985096/930585be-e66f-4c6b-82e1-18124c6a5cae)" width="30"></img></a>
 
 
 © 2024 Gaurav Gehlot
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.gauravgehlot.in)
